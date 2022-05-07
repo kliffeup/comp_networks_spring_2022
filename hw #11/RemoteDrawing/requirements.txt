@@ -1,0 +1,5 @@
+flask
+jsonpickle
+opencv-python
+numpy
+pillow
